@@ -1,0 +1,5 @@
+7
+7 2 3 4 5 19 6
+
+#Enter integer N (3 ≤ N ≤ 1000) number in first string and N integer numbers a1, a2, ..., aN in second string with a
+#space after each number.
